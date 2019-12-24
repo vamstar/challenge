@@ -6,24 +6,34 @@
 
 Is to submit one of the following projects as a private github or bitbucket
 repository. You can share your repo with the username `challengecc`. 
-Once you've shared the repository please email us at jobs@causecode.com with the link, cover letter and a resume.
+Once you've shared the repository please email us at hr@vamstar.io with the link, cover letter and a resume.
 
 ## Fullstack
 
-1. Create an inventory management platform for { pick an industry, product or service }. For example, inventory management for TVs.
-5. Create a small social network
-6. Find a website with public profiles and write a scraper to scrape those profiles
-7. Create a realtime video/audio/text chat application
+1. Notification service
+    
+    a. Server that sends out user notifications based on getting a message. Backend infrastructure to manage notification preferences
+    
+    b. Frontend: Page to see all the messages and notification. Also user preferences to choose notification preferences.
 
-## Frontend/Backend only
+2. Engagement rate 
+    
+    a. Server that aggregates data from any online publication. And rates the engagement rate of each content based on comments or likes
+    
+    b. Frontend: Web app to see the list of content and their engagement levels
 
-If you are applying for a frontend/backend developer position, just implement the frontend/backend for one of the Fullstack challenges.
+ ## Backend Only
+ If you are focused on backend; submit the backend part of any of the above challenges.
+
+ > Currently we are not hiring frontend engineers.
 
 
 You have to build this project from scratch i.e. a big chunk of the code cannot come from a similar open source project. 
-You may use web frameworks like Python Tornado/Django, Grails, Node on Serverless.com or something similar or it can be a mobile app as well.
 
-Front-end technologies like React, ReactNative, Vue, and TypeScript get you ahead in the queue.
+You may use any web framework based on either Java, Kotlin, or Typescript.
+
+Front-end technologies like React, Vue, and TypeScript get you ahead in the queue.
+
 If you are using React use [Create React App](https://github.com/facebookincubator/create-react-app) as a starting 
 point.
 
@@ -37,18 +47,8 @@ point.
 These challenges will NOT self-destruct in the next 5 seconds and will be available for you when you are ready. Submit one
 and start your interview process with us.
 
-<a href="http://bit.ly/Causecode-Submission" target="_blank" styles="display:inline-block;padding:0.35em 1.2em;border:0.1em solid #FFFFFF; margin:0 0.3em 0.3em 0;border-radius:0.12em;box-sizing: border-box;text-decoration:none;font-family:'Roboto',sans-serif;font-weight:300;color:#FFFFFF;text-align:center;transition: all 0.2s;">
-Submit Your Code
-</a>
-
 Good luck.
 
 You can find more info on us here:
 
-* https://causecode.com
-* https://www.linkedin.com/company/causecode
-* https://www.facebook.com/causecode/
-* https://twitter.com/causecode
-* https://www.instagram.com/causecode/
-* https://plus.google.com/u/1/b/100959550068865457513/+CausecodeTechnologiesPune/posts
-* https://www.youtube.com/watch?v=rIa6u2soUkw
+* https://vamstar.io
