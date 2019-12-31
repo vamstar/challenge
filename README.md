@@ -23,14 +23,15 @@ Once you've shared the repository [please email us at](http://scr.im/hrvamstar) 
     b. Frontend: Web app to see the list of content and their engagement levels
 
  ## Backend Only
+
  If you are focused on backend; submit the backend part of any of the above challenges.
 
- > Currently we are not hiring frontend engineers.
+ > Currently we are not hiring purely frontend engineers.
 
 
 You have to build this project from scratch i.e. a big chunk of the code cannot come from a similar open source project. 
 
-You may use any web framework based on either Java, Kotlin, or Typescript.
+You may use any web framework based on either Java, Kotlin, or Typescript. Bonus points if you use any of the AWS infrastructure and services like SQS, SNS, Lambda, AWS SAM.
 
 Front-end technologies like React, Vue, and TypeScript get you ahead in the queue.
 
