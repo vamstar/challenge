@@ -5,7 +5,7 @@
 # Your mission, should you choose to accept it.
 
 Is to submit one of the following projects as a private github or bitbucket
-repository. You can share your repo with the username `challengecc`. 
+repository. You can share your repo with the username `visheshd`. 
 Once you've shared the repository [please email us at](http://scr.im/hrvamstar) with the link, cover letter and a resume.
 
 ## Fullstack
