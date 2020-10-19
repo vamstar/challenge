@@ -16,7 +16,7 @@ Once you've shared the repository [please email us at](http://scr.im/hrvamstar) 
     
     b. Frontend: Page to see all the messages and notification. Also user preferences to choose notification preferences.
 
-2. Engagement rate 
+2. Calculate User Engagement rate 
     
     a. Server that aggregates data from any online publication. And rates the engagement rate of each content based on comments or likes
     
