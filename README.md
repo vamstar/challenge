@@ -8,36 +8,17 @@ Is to submit one of the following projects as a private github or bitbucket
 repository. You can share your repo with the username `visheshd`. 
 Once you've shared the repository [please email us at](http://scr.im/hrvamstar) with the link, cover letter and a resume.
 
-## Fullstack
+# Ingest CSV or Excel File
 
-1. Notification service
-    
-    a. Server that sends out user notifications based on getting a message. Backend infrastructure to manage notification preferences
-    
-    b. Frontend: Page to see all the messages and notification. Also user preferences to choose notification preferences.
+## Requirements
+Write a node script using Typescript to read CSV file.
 
-2. Calculate User Engagement rate 
-    
-    a. Server that aggregates data from any online publication. And rates the engagement rate of each content based on comments or likes
-    
-    b. Frontend: Web app to see the list of content and their engagement levels
-
-
- ## Backend Only
-
- If you are focused on backend; submit the backend part of any of the above challenges.
-
- > Currently we are not hiring purely frontend engineers.
-
-
-You have to build this project from scratch i.e. a big chunk of the code cannot come from a similar open source project. 
-
-You may use any web framework based on either Java, Kotlin, or Typescript. Bonus points if you use any of the AWS infrastructure and services like SQS, SNS, Lambda, AWS SAM.
-
-Front-end technologies like React, Vue, and TypeScript get you ahead in the queue.
-
-If you are using React use [Create React App](https://github.com/facebookincubator/create-react-app) as a starting 
-point.
+## Technical Specification
+1. The code should be well formatted and linted using eslint
+2. Print the summarized output describing the following meta data about the CSV
+  a. Column or field names present in the CSV
+  b. Total size in bytes of the file
+  c. Total number of rows
 
 ## *** What are we looking for? ***
 1. How creative is your solution?
