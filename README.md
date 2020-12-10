@@ -11,7 +11,7 @@ Once you've shared the repository [please email us at](http://scr.im/hrvamstar) 
 # Ingest CSV or Excel File
 
 ## Requirements
-Write a node script using Typescript to read CSV file.
+Write a node script using Typescript to read [this CSV file](https://raw.githubusercontent.com/vamstar/challenge/master/Dataset3.csv).
 
 ## Technical Specification
 1. The code should be well formatted and linted using eslint
